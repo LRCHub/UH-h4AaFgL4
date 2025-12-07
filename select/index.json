@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ROBIN",
+  "base_artist": "guca owl",
+  "createdAt": "2025-12-07T01:46:42.215142Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shine - Toyboy & Robin Remix",
+      "artist": "Years & Years",
+      "has_synced": true,
+      "path": "select/01_Shine_-_Toyboy_&_Robin_Remix_Years_&_Years.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tie My Hands (Feat. Robin Thicke)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/02_Tie_My_Hands_(Feat._Robin_Thicke)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Follow Robin Down",
+      "artist": "Malcolm Middleton",
+      "has_synced": false,
+      "path": "select/03_Follow_Robin_Down_Malcolm_Middleton.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Supervitesse (Robin Guthrie mix)",
+      "artist": "Mahogany",
+      "has_synced": false,
+      "path": "select/04_Supervitesse_(Robin_Guthrie_mix)_Mahogany.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All in Your Mind (Live at the Robin Hood Club, Dudley, 1996)",
+      "artist": "Stray",
+      "has_synced": true,
+      "path": "select/05_All_in_Your_Mind_(Live_at_the_Robin_Hood_Club,_Dudley,_1996)_Stray.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Suicide (Live at the Robin Hood R'n'b Club, Brierley Hill, 21/01/2002)",
+      "artist": "Stray",
+      "has_synced": true,
+      "path": "select/06_Suicide_(Live_at_the_Robin_Hood_R'n'b_Club,_Brierley_Hill,_21_01_2002)_Stray.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Robin (The Hooded Man)",
+      "artist": "Clannad",
+      "has_synced": false,
+      "path": "select/07_Robin_(The_Hooded_Man)_Clannad.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Robin (The Hooded Man)",
+      "artist": "Clannad",
+      "has_synced": true,
+      "path": "select/08_Robin_(The_Hooded_Man)_Clannad.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Batman And Robin",
+      "artist": "Snoop Dogg feat. The Lady Of Rage & RBX",
+      "has_synced": true,
+      "path": "select/09_Batman_And_Robin_Snoop_Dogg_feat._The_Lady_Of_Rage_&_RBX.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Batman & Robin (feat. Lady of Rage and RBX)",
+      "artist": "Snoop Dogg",
+      "has_synced": true,
+      "path": "select/10_Batman_&_Robin_(feat._Lady_of_Rage_and_RBX)_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dangerous (Robin Schulz Remix) (Radio Edit)",
+      "artist": "David Guetta feat. Sam Martin",
+      "has_synced": true,
+      "path": "select/11_Dangerous_(Robin_Schulz_Remix)_(Radio_Edit)_David_Guetta_feat._Sam_Martin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dangerous (feat. Sam Martin) [Robin Schulz Remix] [Radio Edit]",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/12_Dangerous_(feat._Sam_Martin)_[Robin_Schulz_Remix]_[Radio_Edit]_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cock Robin \u0000 A little innocence",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/13_Cock_Robin_\u0000_A_little_innocence_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cock Robin \u0000 Any more than I could understand",
+      "artist": "Cock Robin",
+      "has_synced": false,
+      "path": "select/14_Cock_Robin_\u0000_Any_more_than_I_could_understand_Cock_Robin.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cock Robin \u0000 Cowards courage",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/15_Cock_Robin_\u0000_Cowards_courage_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cock Robin \u0000 Don't think twice, it's alright",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/16_Cock_Robin_\u0000_Don't_think_twice,_it's_alright_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cock Robin \u0000 El norte",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/17_Cock_Robin_\u0000_El_norte_Cock_Robin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ROBIN",
+      "artist": "guca owl",
+      "has_synced": false,
+      "path": "select/pl_01_ROBIN_guca_owl.txt"
+    }
+  ]
+}
